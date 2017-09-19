@@ -1,0 +1,28 @@
+1 - Introdução
+2 - Problema proposto
+3 - Interface gráfica
+4 - Considerações finais
+5 - Referências bibliográficas
+
+
+1 - Introdução
+
+A técnica de paralelização de algoritmos é um recurso que visa a divisão de tarefas 
+que normalmente seu algoritmo faria em uma thread para multiplas threads. A aplicação
+dessa técnica visa um melhor desempenho, que é observado em relação ao tempo 
+
+
+2 - Problema proposto
+
+O problema proposto por esse trabalho seria o de paralelizar o trabalho prático anterior a este,
+que no caso foi o de simular o autocompletar de um navegador de buscas,
+fazendo com que multiplas threads executem o problema juntamente, 
+resultando assim em uma diminuição do tempo de execução do mesmo. 
+
+5 - Referências bibliográficas
+
+ROCHA, Leonardo C. D. Slides da unidade curricular de Algoritmos e Estruturas de
+Dados III, 2016.
+
+OLIVEIRA, Rafael Sachetto. Slides da unidade curricular de Sistemas Operacionais, 2011.
+

@@ -1,0 +1,18 @@
+Arquivos de Exemplo de utilização de pthread.
+Carlos Magno
+
+Para compila execute o make na pasta onde se encontra os arquivos .c
+Os exemplos foram coletados do github e outros sites.
+Os exemplos podem conter erros.
+
+
+
+
+Fontes:
+https://github.com/analytical-engine/pthread
+https://en.wikipedia.org/wiki/POSIX_Threads
+https://www.vivaolinux.com.br/dica/Usando-o-GCC-com-pthread
+http://timmurphy.org/2010/05/04/pthreads-in-c-a-minimal-working-example/
+http://www.cs.ucsb.edu/~tyang/class/pthreads/index_sgi.html
+
+

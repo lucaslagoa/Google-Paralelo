@@ -1,0 +1,21 @@
+Especificações para as interfaces gráficas:
+
+1) Depois de feito todo o processo de instalação do XAMPP e a devida colocação da pasta no local, 
+   explicaremos um pouco abaixo as devidas mudanças que foram feitas para haver a integração com o código.
+
+2) Para realizar a integração, foi utilizada PHP e html. 
+	No arquivo php, fica como deve ser feita para rodar no terminal e a integração
+	E foi definido que o arquivo de entrada para a interface gráfica deve chamar entrada.txt e o máximo
+	de palavras que ele irá imprimir é 5,e o número de threads padrão é 5 também
+, procurando imitar o auto-complete. E caso queira mudar, pode-se alterar no arquivo.php
+
+3) E no html, para reproduzir o auto-complete, utilizamos uma biblioteca pronta do js que imprime as palavras
+	em uma lista abaixo, e para isso precisamos colocar uma condição especial nesse código.
+	E cada palavra que foi selecionada, ele irá imprimir um caracter especial que no caso o " + " para que 
+	quando houver a ocorrência da mesma, ela quebrará a palavra para na interface gráfica sair em forma de lista.
+
+4) Caso for digitado algo na interface gráfica e não retornar nada sendo que o que foi digitado está na base de entrada, 
+	recomenda-se pressionar para baixo para aparecer as palavras, e se não aparecer possivelmente é porque está 
+	compilando ainda.
+
+

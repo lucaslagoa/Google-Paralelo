@@ -1,0 +1,15 @@
+./tp4 -i 10.txt a 3 2 >>saida.txt
+./tp4 -i 20.txt a 3 2 >>saida.txt
+./tp4 -i 50.txt a 3 2 >>saida.txt
+./tp4 -i 100.txt a 3 2 >>saida.txt
+./tp4 -i 500.txt a 3 2 >>saida.txt
+./tp4 -i 1000.txt a 3 2 >>saida.txt
+./tp4 -i 5000.txt a 3 2 >>saida.txt
+./tp4 -i 10000.txt a 3 2 >>saida.txt
+./tp4 -i 20000.txt a 3 2 >>saida.txt
+./tp4 -i 50000.txt a 3 2 >>saida.txt
+./tp4 -i 100000.txt a 3 2 >>saida.txt
+./tp4 -i 150000.txt a 3 2 >>saida.txt
+./tp4 -i 200000.txt a 3 2 >>saida.txt
+./tp4 -i 250000.txt a 3 2 >>saida.txt
+./tp4 -i 300000.txt a 3 2 >>saida.txt

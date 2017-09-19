@@ -1,0 +1,25 @@
+#ifndef func_h
+#define func_h
+#include <time.h>
+#include <sys/time.h>
+#include <sys/resource.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#define tamanho 100
+typedef struct palavra
+{
+	long long int peso;
+	char word[tamanho];
+}w;
+typedef struct palavras_selec//struct com as palavras selecionadas 
+{
+	long long int peso_palavra_selecionada;
+	char palavra_selecionada[tamanho];
+}ws;
+char *min(char *palavra_pesquisada_leitura, int tamanho_palavra_pesquisada);
+ws *seleciona_palavra(ws *ps, int tamanho_palavra_pesquisada, w *palavras, char *palavra_pesquisada, int numero_de_palavras);
+long long int *bubble_sort(long long int *vetor, int numero_de_palavras);
+long long int *vetor_maiores(ws *ps, int tamanho_palavra_pesquisada,long long int *vetor_ordenado, long long int *vetor, int numero_de_palavras);
+ws *selecao(ws *ps, long long int *vetor_ordenado, int numero_de_palavras, int q);
+#endif

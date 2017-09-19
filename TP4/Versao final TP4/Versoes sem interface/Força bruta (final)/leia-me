@@ -1,0 +1,13 @@
+neste algoritmos sao passados os seguintes parametros, 
+
+./tp4 -i (nome_do_arquivo_de_entrada.txt) a palavra que deseja digitar o valor de k e o numero de threads
+
+um exemplo ficaria desta forma
+
+./tp4 -i entrada.txt lucas 3 5
+
+caso queira digitar palavras compostas, por exemplo batata frita, coloca-se entre aspas simples a palavra 
+
+um exemplo ficaria desta forma 
+
+./tp4 -i entrada.txt 'batata frita' 2  10

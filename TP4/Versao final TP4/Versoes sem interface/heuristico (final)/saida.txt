@@ -1,0 +1,132 @@
+A palavra que você procurou não está presente no dicionário, pesquise novamente!
+
+tempo decorrido: 1 ms
+A palavra que você procurou não está presente no dicionário, pesquise novamente!
+
+tempo decorrido: 0 ms
+A palavra que você procurou não está presente no dicionário, pesquise novamente!
+
+tempo decorrido: 0 ms
+A palavra que você procurou não está presente no dicionário, pesquise novamente!
+
+tempo decorrido: 0 ms
+ about
+ above
+ able
+ absent
+ ability
+ a87
+ accepted
+ actually
+ ab
+ accommodation
+
+tempo decorrido: 1 ms
+ about
+ above
+ able
+ absent
+ ability
+ a87
+ animal
+ accepted
+ actually
+ anyone
+
+tempo decorrido: 2 ms
+ about
+ above
+ able
+ absent
+ ability
+ a87
+ animal
+ accepted
+ actually
+ anyone
+
+tempo decorrido: 4 ms
+ about
+ above
+ able
+ absent
+ ability
+ Agents in
+ a87
+ Adventures in
+ Advertising guide
+ animal
+
+tempo decorrido: 16 ms
+ about
+ above
+ able
+ absent
+ ability
+ Ask your
+ Agents in
+ a87
+ Adventures in
+ And finally
+
+tempo decorrido: 34 ms
+ about
+ above
+ able
+ absent
+ ability
+ a middle
+ Ask your
+ Agents in
+ a87
+ a dollar
+
+tempo decorrido: 281 ms
+ about
+ above
+ able
+ absent
+ ability
+ a middle
+ Ask your
+ Agents in
+ an energy
+ and effects
+
+tempo decorrido: 4432 ms
+ about
+ above
+ able
+ absent
+ ability
+ a middle
+ Ask your
+ Agents in
+ an energy
+ and effects
+
+tempo decorrido: 4409 ms
+ about
+ above
+ able
+ absent
+ ability
+ a middle
+ Ask your
+ Agents in
+ an energy
+ and effects
+
+tempo decorrido: 4637 ms
+ about
+ above
+ able
+ absent
+ ability
+ a middle
+ Ask your
+ Agents in
+ an energy
+ and effects
+
+tempo decorrido: 4398 ms
